@@ -7,7 +7,7 @@
 - Contract for transferring tokens with a 5% charge sent to a reserve wallet and the recipient wallet with one txn.
 
 ### SimplePaymaster
-- A paymaster contract leveraging on erc-4337 for gas sponsorship for users. (compiles and deploys but need optimization etc)
+- A paymaster contract leveraging on erc-4337 for gas sponsorship for users. (compiles and deploys but needs optimization etc)
 
 # Sample Hardhat Project
 
